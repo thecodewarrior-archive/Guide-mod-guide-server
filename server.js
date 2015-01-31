@@ -135,5 +135,6 @@ app.get(prefix + '/delete', function(req, res) {
     });
 });
 */
-app.listen(80);
-console.log('Listening on port 3000...');
+port = process.env.PORT || 3000
+app.listen(port);
+console.log('Listening on port ' + port + '...');
