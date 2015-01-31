@@ -1,0 +1,19 @@
+Explosion
+
+An explosion is a physical event, generally destructive, that can be caused by several different circumstances. It can destroy nearby blocks, propel and <<guide:damage|minecraft:damage>> nearby <<guide:players|minecraft:player>>, <<guide:entities|minecraft:entity>>, and their <<guide:armor|minecraft:armor>>, and cause one or more <<guide:fires|minecraft:fire>> under correct circumstances. Explosions produce a "shockwave" <<guide:particle effect|minecraft:particle_event>>.
+
+Multiple close explosions may propel objects further, but have no cumulative effect on the destruction of a block. This is because explosions' damage to blocks is evaluated individually (per explosion), and blocks' <<guide:blast resistance|minecraft:blast_resistance>> does not become "weakened" per explosion.
+
+"Destroyed" blocks have a chance of dropping as collectible resources (and otherwise disappear), and this chance is one divided by the explosion power. So, a creeper blast (uncharged) will have a 1/3 chance of dropping a block.
+
+Explosion types:
+<<indent>>
+7 <<guide:Wither|minecraft:wither_boss>>
+6 <<guide:Ender Crystal|minecraft:ender_crystal>>
+6 <<guide:Charged Creeper|minecraft:creeper>>
+5 <<guide:Bed|minecraft:bed>> (when used in the <<guide:Nether|minecraft:nether>> or the <<guide:End|minecraft:end>>)
+4 <<guide:TNT|minecraft:TNT>>
+3 <<guide:Creeper|minecraft:creeper>>
+1 <<guide:Ghast|minecraft:ghast>> fireball
+1 <<guide:Black Wither Skull|minecraft:wither_skull_black>>
+1 <<guide:Blue Wither Skull|minecraft:wither_skull_blue>>

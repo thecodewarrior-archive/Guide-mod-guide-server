@@ -1,7 +1,5 @@
-block
 explosion
-cobblestone_slabs
-cobblestone_stairs
+cobblestone_stair
 slab
 anvil
 enchantments
