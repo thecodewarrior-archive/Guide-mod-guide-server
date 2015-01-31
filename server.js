@@ -6,7 +6,7 @@ var express = require('express' ),
 
 var mongo = require('mongodb');
 var monk = require('monk');
-var db = monk('localhost:27017/guides');
+var db = monk(process.env['ENV_MONGODB_URI']);
 
 var collectionName = "guides";
 var prefix = '/guides/:modid/:version'
@@ -62,11 +62,11 @@ app.get(prefix + '/dl', function(req, res){
         res.sendfile('guides/' + modid + '/' + version + '/' + guide_version + '.zip');
     });
 });
-
+/* unused
 app.get('/ping', function(req, res) {
     res.send('PONG');
 })
-
+*/
 app.get(prefix + '/update/version/:guideversion', function(req, res) {
     var modid      = req.params.modid,
         version    = req.params.version,
@@ -109,7 +109,7 @@ app.get(prefix + '/update/rezip/:guideversion', function(req, res) {
         });
     });
 });
-
+/* writing
 app.get(prefix + '/create', function(req, res) {
     var collection = db.get(collectionName);
     collection.insert({
@@ -130,6 +130,6 @@ app.get(prefix + '/delete', function(req, res) {
         guideVersion:"0.0.0"
     });
 });
-
+*/
 app.listen(3000);
 console.log('Listening on port 3000...');
