@@ -7,6 +7,6 @@ Cobblestone can be created when <<guide:water|minecraft:water>> flows into flowi
 Notable things that are made using cobblestone:
 <<guide:Furnace|minecraft:furnace>>
 <<guide:Cobblestone Wall|minecraft:cobblestone_wall>>
-<<guide:Cobblestone Slabs|minecraft:cobblestone_slabs>>
-<<guide:Cobblestone Stairs|minecraft:cobblestone_stairs>>
+<<guide:Cobblestone Slabs|minecraft:cobblestone_slab>>
+<<guide:Cobblestone Stairs|minecraft:cobblestone_stair>>
 <<guide:Tool material|minecraft:toolMaterial>>

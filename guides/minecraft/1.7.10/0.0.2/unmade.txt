@@ -1,7 +1,8 @@
-slab
-cobblestone_wall
+block
+explosion
 cobblestone_slabs
 cobblestone_stairs
+slab
 anvil
 enchantments
 enchantedBook
