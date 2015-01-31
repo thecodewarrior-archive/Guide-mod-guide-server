@@ -1,0 +1,7 @@
+Cobblestone wall
+
+The main difference between Cobblestone walls and <<guide:Fences|minecraft:fence>> is purely cosmetic, and the "pillar" part of the cobblestone wall only appears at the ends, corners, or intersections. Not on every block.
+
+Cobblestone walls act almost exactly like <<guide:Fences|minecraft:fence>>, with two differences, they have higher <<guide:Blast Resistance|minecraft:blast_resistance>> than fences, and when there are two placed diagonally from each other, the player can't walk between them.
+
+Cobblestone walls come in two varieties, Cobblestone Walls, and Mossy Cobblestone Walls

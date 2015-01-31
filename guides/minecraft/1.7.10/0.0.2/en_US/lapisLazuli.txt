@@ -1,0 +1,5 @@
+Lapis Lazuli
+
+Lapis Lazuli is pretty much entirely useless, used only as a blue dye, it is moderately rare.
+
+In Minecraft version 1.8 and up, Lapis Lazuli is used in <<guide:enchanting|minecraft:enchant>>.

@@ -1,0 +1,3 @@
+Cobblestone slab
+
+Cobblestone slabs are just like any other <<guide:slab|minecraft:slab>>, but are made of cobblestone, so are very cheap.

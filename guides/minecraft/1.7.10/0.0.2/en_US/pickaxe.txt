@@ -1,0 +1,3 @@
+Pickaxe
+
+The Pickaxe is a very important <<guide:tool|minecraft:tool>>

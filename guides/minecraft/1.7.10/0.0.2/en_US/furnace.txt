@@ -1,0 +1,7 @@
+Furnace
+
+The furnace is a block that is used to <<guide:smelt|minecraft:smelting>> items, it requires <<guide:fuel|minecraft:fuel>> to run and will change texture and emit light when running. When the player takes certain items out of the furnace after smelting, such as some ores, the player will gain a small amount of <<guide:experience points|minecraft:XP>>.
+
+Furnaces face the player when placed, though this is only a cosmetic change and doesn't affect the block in any other way.
+
+Blocks can be placed directly on a furnace block by <<guide:Sneaking|minecraft:sneaking>>

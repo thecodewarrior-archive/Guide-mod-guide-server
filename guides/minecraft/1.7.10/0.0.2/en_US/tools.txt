@@ -1,0 +1,61 @@
+Tools
+
+Tools are, well, tools. They allow the player to mine more quickly, kill mobs more quickly, or do things the player normally can't.
+
+All tools have durability, which is used up when the tool is used, when the durability gets to zero the tool will break, playing a sound and disappearing.
+
+All tools can be combined in a crafting table with one tool of the same type and material to add their durabilities, plus a bonus 5%.
+
+Note: Pickaxes, Axes, Shovels, Swords, and Hoes can be made using any of the <<guide:tool materials|minecraft:toolMaterial>>
+
+Tools for mining:
+<<indent>>
+Mining tools allow the player to mine certain materials more quickly than by hand, and make certain materials drop when they normally wouldn't.
+<<dedent>>
+
+<<guide:Pickaxe|minecraft:pickaxe>>
+<<indent>>
+Pickaxes are used to mine stone-like materials.
+<<dedent>>
+
+<<guide:Axe|minecraft:axe>>
+<<indent>>
+Axes are used to mine wood-like materials.
+<<dedent>>
+
+<<guide:Shovel|minecraft:shovel>>
+<<indent>>
+Shovels are used to mine dirt-like materials.
+<<dedent>>
+
+Tools for killing mobs:
+<<guide:Sword|minecraft:sword>>
+<<indent>>
+Swords are used to kill mobs more effectively in close-quarter combat, and for blocking damage
+<<dedent>>
+
+<<guide:Bow|minecraft:bow>>
+<<indent>>
+Bows are used to shoot mobs with arrows from the player's inventory, allowing for ranged combat.
+<<dedent>>
+
+Other tools:
+<<guide:Hoe|minecraft:hoe>>
+<<indent>>
+The hoe is used for tilling dirt into <<guide:farmland|minecraft:farmland>>.
+<<dedent>>
+
+<<guide:Shears|minecraft:shear>>
+<<indent>>
+Shears are used for taking the wool off of sheep
+<<dedent>>
+
+<<guide:Flint and steel|minecraft:flint_and_steel>>
+<<indent>>
+Flint and steel has only one purpose, lighting things on fire.
+<<dedent>>
+
+<<guide:Fishing rod|minecraft:fishing_rod>>
+<<indent>>
+The fishing rod is used for, well fishing. And yanking mobs towards you.
+<<dedent>>

@@ -1,0 +1,3 @@
+Blast resistance
+
+Blast resistance is part of every <<guide:block|minecraft:block>> in minecraft, and dictates how powerful of an <<guide:explosion|minecraft:explosion>> is required to destroy the block, and how much the explosion is dampened by the block.

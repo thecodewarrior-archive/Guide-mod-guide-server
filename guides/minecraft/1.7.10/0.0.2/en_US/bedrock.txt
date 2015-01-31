@@ -1,0 +1,5 @@
+Bedrock
+
+This block spawns at the bottom of the <<guide:Overworld|minecraft:overworld>>, plus the top and bottom of the <<guide:Nether|minecraft:nether>>.
+
+Bedrock is impossible to destroy by typical means, the only way to destroy it is to grow a dark oak above it, and the "roots" will occasionally dig through the bedrock.

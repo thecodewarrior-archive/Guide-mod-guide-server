@@ -1,0 +1,11 @@
+Experience
+
+Experience, or XP for short, can be obtained by gathering <<guide:Experience Orbs|minecraft:xp_orb>> from mining certain materials, defeated mobs and players, breeding, fishing, and removing certain items from <<guide:Furnaces|minecraft:furnace>>.
+
+Experience points accumulate into Experiance Levels. However, unlike many games, experience levels do not directly increase the character's abilities. Instead, experience is used for <<guide:Enchanting|minecraft:enchanting>> and <<guide:Anvils|minecraft:anvil>>, to produce weapons, armor, and tools with various useful abilities.
+
+Most experience comes in the form of <<guide:Experience Orbs|minecraft:xp_orb>> magical, pulsating, orbs of energy. <<guide:Experience orbs|minecraft:xp_orb>> will "float" or glide toward the player if they are 2-3 blocks away.
+
+Gathering experience points increases the player's <<guide:experience level|minecraft:xp_level>> by gradually filling a bar on the bottom of the screen until a new level is achieved when the bar is full. When the player dies, they drop 7 times their level as experience orbs, up to a maximum of 100 points (enough to reach level 5). All the other experience vanishes.
+
+The amount of XP points required to go up a level slowly increases as your levels increase.

@@ -1,0 +1,15 @@
+blocks:
+
+minecraft:grass=minecraft:grass
+minecraft:stone=minecraft:stone
+minecraft:dirt.2=minecraft:podzol
+minecraft:cobblestone=minecraft:cobblestone
+minecraft:planks=minecraft:planks
+minecraft:bedrock=minecraft:bedrock
+minecraft:sand=minecraft:sand
+minecraft:sand.1=minecraft:redsand
+minecraft:gravel=minecraft:gravel
+
+items:
+
+minecraft:dye.1=minecraft:lapisLazuli
