@@ -137,4 +137,4 @@ app.get(prefix + '/delete', function(req, res) {
 */
 port = process.env.PORT || 3000
 app.listen(port);
-console.log('Listening on port ' + port + '...');
+console.log('Listening on port ' + port + '... env.PORT=' + process.env.PORT);
