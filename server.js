@@ -6,7 +6,7 @@ var express = require('express' ),
 
 var mongo = require('mongodb');
 var monk = require('monk');
-var db = monk(process.env['ENV_MONGODB_URI']);
+var db = monk(process.env.ENV_MONGODB_URI);
 
 var collectionName = "guides";
 var prefix = '/guides/:modid/:version'
@@ -26,6 +26,10 @@ var modTaskComplete = function(task, modid, version, guideversion) {
         "</table>" +
     "</body></html>";
 }
+
+app.get('/uri', function(req,res) {
+    res.send(process.env.ENV_MONGODB_URI); 
+});
 
 app.get('/guides', function(req, res) {
     //var db = req.db;
