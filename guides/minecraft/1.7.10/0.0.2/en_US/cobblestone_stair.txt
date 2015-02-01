@@ -1,0 +1,3 @@
+Cobblestone Stair
+
+Cobblestone stairs are, well, <<guide:stairs|minecraft:star>>, made out of cobblestone. Big surprise there.

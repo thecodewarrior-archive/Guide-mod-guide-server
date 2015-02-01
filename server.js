@@ -30,6 +30,10 @@ var modTaskComplete = function(task, modid, version, guideversion) {
 app.get('/uri', function(req,res) {
     res.send(process.env.ENV_MONGODB_URI); 
 });
+//
+// app.get('/', function(req,res) {
+//     res.sendfile('index')
+// })
 
 app.get('/guides', function(req, res) {
     //var db = req.db;
