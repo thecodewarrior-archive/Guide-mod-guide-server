@@ -1,5 +1,5 @@
-cobblestone_stair
 slab
+star
 anvil
 enchantments
 enchantedBook
