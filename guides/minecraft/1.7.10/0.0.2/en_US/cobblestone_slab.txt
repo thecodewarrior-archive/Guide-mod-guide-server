@@ -1,3 +1,11 @@
+<title>
 Cobblestone slab
+</title>
 
-Cobblestone slabs are just like any other <<guide:slab|minecraft:slab>>, but are made of cobblestone, so are very cheap.
+<tool>
+<image src="" />
+</tool>
+
+<content>
+Cobblestone slabs are just like any other <guide href="minecraft:slab">slab</guide>, but are made of cobblestone, so are very cheap.
+</content>

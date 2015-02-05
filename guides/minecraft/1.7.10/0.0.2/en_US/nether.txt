@@ -1,7 +1,15 @@
+<title>
 Nether
+</title>
 
-The Nether is a fiery <<guide:dimension|minecraft:dimensions>> known for its Lava lakes, <<guide:Netherrack|minecraft:netherrack>> structures, and Glowstone Crystals
+<tool>
+<image src="" />
+</tool>
+
+<content>
+The Nether is a fiery <guide href="minecraft:dimensions">dimension</guide> known for its Lava lakes, <guide href="minecraft:netherrack">Netherrack</guide> structures, and Glowstone Crystals
 
 <<image:minecraft:dimensions/nether/overview|width=200|align=center>>
 
 [To be expanded]
+</content>

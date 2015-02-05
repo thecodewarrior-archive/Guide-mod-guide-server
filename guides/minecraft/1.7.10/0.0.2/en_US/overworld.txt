@@ -1,3 +1,11 @@
+<title>
 Overworld
+</title>
 
-The overworld is the main <<guide:dimension|minecraft:dimension>> in Minecraft, and is where the player <<guide:spawns|minecraft:spawning>> in the beginning of the game.
+<tool>
+<image src="" />
+</tool>
+
+<content>
+The overworld is the main <guide href="minecraft:dimension">dimension</guide> in Minecraft, and is where the player <guide href="minecraft:spawning">spawns</guide> in the beginning of the game.
+</content>

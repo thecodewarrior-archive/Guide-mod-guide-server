@@ -1,12 +1,20 @@
+<title>
 Cobblestone
+</title>
 
-Probably the cheapest building material in Minecraft, Cobblestone is dropped when <<guide:stone|minecraft:stone>> is broken with a <<guide:pickaxe|minecraft:pickaxe>> unless the pickaxe is <<guide:enchanted|minecraft:enchant>> with <<guide:silk touch|minecraft:silkTouch>>.
+<tool>
+<image src="" />
+</tool>
 
-Cobblestone can be created when <<guide:water|minecraft:water>> flows into flowing <<guide:lava|minecraft:lava>>, however, if the lava flows onto the water, it will create <<guide:stone|minecraft:stone>> instead.
+<content>
+Probably the cheapest building material in Minecraft, Cobblestone is dropped when <guide href="minecraft:stone">stone</guide> is broken with a <guide href="minecraft:pickaxe">pickaxe</guide> unless the pickaxe is <guide href="minecraft:enchant">enchanted</guide> with <guide href="minecraft:silkTouch">silk touch</guide>.
+
+Cobblestone can be created when <guide href="minecraft:water">water</guide> flows into flowing <guide href="minecraft:lava">lava</guide>, however, if the lava flows onto the water, it will create <guide href="minecraft:stone">stone</guide> instead.
 
 Notable things that are made using cobblestone:
-<<guide:Furnace|minecraft:furnace>>
-<<guide:Cobblestone Wall|minecraft:cobblestone_wall>>
-<<guide:Cobblestone Slabs|minecraft:cobblestone_slab>>
-<<guide:Cobblestone Stairs|minecraft:cobblestone_stair>>
-<<guide:Tool material|minecraft:toolMaterial>>
+<guide href="minecraft:furnace">Furnace</guide>
+<guide href="minecraft:cobblestone_wall">Cobblestone Wall</guide>
+<guide href="minecraft:cobblestone_slab">Cobblestone Slabs</guide>
+<guide href="minecraft:cobblestone_stair">Cobblestone Stairs</guide>
+<guide href="minecraft:toolMaterial">Tool material</guide>
+</content>

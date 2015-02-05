@@ -1,3 +1,4 @@
+<!--
 <<table cols=4 header=true lines=true>>
 
 
@@ -18,18 +19,36 @@ EID|Name|Max Level|Primary Items|Secondary Items|Effect|
 <<guide:Leggings|minecraft:leggings>>
 <<guide:Boots|minecraft:boots>>|Damages attackers|
 8|Depth Strider|III|<<guide:Boots|minecraft:boots>>|-|Increases underwater movement speed|
+-->
 
 
-<title></title>
-<tool></tool>
+<title>Enchanting table</title>
+<tool>
+    <name>Pickaxe</name>
+    <id>minecraft:pickaxe</id>
+    <image src="minecraft:tools/any_type/pick"/>
+</tool>
 
 <content>
+    <image src="minecraft:block/angle/enchanting_table"
+        align="right" margin-top="-10"/>
+    <b>Enchantments</b>
     <table>
         <tr>
             <td><b>EID</b></td>
+            <td><b>Name</b></td>
+            <td><b>Max Level</b></td>
+            <td><b>Primary Items</b></td>
+            <td><b>Secondary Items</b></td>
+            <td><b>Effect</b></td>
         </td>
         <tr>
             <td>0</td>
+            <td>Protection</td>
+            <td>IV</td>
+            <td><guide href="minecraft:armor">Armor</guide></td>
+            <td>-</td>
+            <td>Reduces most damage</td>
         </tr>
     </table>
 </content>

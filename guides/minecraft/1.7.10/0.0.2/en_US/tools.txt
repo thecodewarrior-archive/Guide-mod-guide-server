@@ -1,61 +1,69 @@
+<title>
 Tools
+</title>
 
+<tool>
+<image src="" />
+</tool>
+
+<content>
 Tools are, well, tools. They allow the player to mine more quickly, kill mobs more quickly, or do things the player normally can't.
 
 All tools have durability, which is used up when the tool is used, when the durability gets to zero the tool will break, playing a sound and disappearing.
 
 All tools can be combined in a crafting table with one tool of the same type and material to add their durabilities, plus a bonus 5%.
 
-Note: Pickaxes, Axes, Shovels, Swords, and Hoes can be made using any of the <<guide:tool materials|minecraft:toolMaterial>>
+Note: Pickaxes, Axes, Shovels, Swords, and Hoes can be made using any of the <guide href="minecraft:toolMaterial">tool materials</guide>
 
 Tools for mining:
-<<indent>>
+<indent>
 Mining tools allow the player to mine certain materials more quickly than by hand, and make certain materials drop when they normally wouldn't.
-<<dedent>>
+</indent>
 
-<<guide:Pickaxe|minecraft:pickaxe>>
-<<indent>>
+<guide href="minecraft:pickaxe">Pickaxe</guide>
+<indent>
 Pickaxes are used to mine stone-like materials.
-<<dedent>>
+</indent>
 
-<<guide:Axe|minecraft:axe>>
-<<indent>>
+<guide href="minecraft:axe">Axe</guide>
+<indent>
 Axes are used to mine wood-like materials.
-<<dedent>>
+</indent>
 
-<<guide:Shovel|minecraft:shovel>>
-<<indent>>
+<guide href="minecraft:shovel">Shovel</guide>
+<indent>
 Shovels are used to mine dirt-like materials.
-<<dedent>>
+</indent>
 
 Tools for killing mobs:
-<<guide:Sword|minecraft:sword>>
-<<indent>>
+<guide href="minecraft:sword">Sword</guide>
+<indent>
 Swords are used to kill mobs more effectively in close-quarter combat, and for blocking damage
-<<dedent>>
+</indent>
 
-<<guide:Bow|minecraft:bow>>
-<<indent>>
+<guide href="minecraft:bow">Bow</guide>
+<indent>
 Bows are used to shoot mobs with arrows from the player's inventory, allowing for ranged combat.
-<<dedent>>
+</indent>
 
 Other tools:
-<<guide:Hoe|minecraft:hoe>>
-<<indent>>
-The hoe is used for tilling dirt into <<guide:farmland|minecraft:farmland>>.
-<<dedent>>
+<guide href="minecraft:hoe">Hoe</guide>
+<indent>
+The hoe is used for tilling dirt into <guide href="minecraft:farmland">farmland</guide>.
+</indent>
 
-<<guide:Shears|minecraft:shear>>
-<<indent>>
+<guide href="minecraft:shear">Shears</guide>
+<indent>
 Shears are used for taking the wool off of sheep
-<<dedent>>
+</indent>
 
-<<guide:Flint and steel|minecraft:flint_and_steel>>
-<<indent>>
+<guide href="minecraft:flint_and_steel">Flint and steel</guide>
+<indent>
 Flint and steel has only one purpose, lighting things on fire.
-<<dedent>>
+</indent>
 
-<<guide:Fishing rod|minecraft:fishing_rod>>
-<<indent>>
+<guide href="minecraft:fishing_rod">Fishing rod</guide>
+<indent>
 The fishing rod is used for, well fishing. And yanking mobs towards you.
-<<dedent>>
+</indent>
+</content>

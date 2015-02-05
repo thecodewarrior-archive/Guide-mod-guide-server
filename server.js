@@ -6,7 +6,7 @@ var express = require('express' ),
 
 var mongo = require('mongodb');
 var monk = require('monk');
-var db = monk(process.env.ENV_MONGODB_URI);
+var db = monk(process.env.ENV_MONGODB_URI || 'localhost');
 
 var collectionName = "guides";
 var prefix = '/guides/:modid/:version'
