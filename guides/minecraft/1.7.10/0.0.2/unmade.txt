@@ -1,8 +1,13 @@
+arrow
 slab
 star
 anvil
-enchantments
 enchantedBook
+boot
+helmet
+chestplate
+leggings
+boots
 damage
 player
 entity
@@ -60,3 +65,5 @@ flint_and_steel
 fishing_rod
 xp_orb
 xp_level
+
+

@@ -32,6 +32,6 @@ Pretty much the least useful tools in Minecraft, gold tools are extremely fast, 
 <guide href="minecraft:diamond">Diamond</guide>
 <indent>
 The best tool material by far, diamond tools have far more durability than any other material, and are also far faster. The only problem is that diamonds are rare.
-<indent>
+</indent>
 
 </content>
