@@ -70,7 +70,7 @@ A description of the capability improved or added by the enchantment.
         <td>2</td>
         <td>Feather Falling</td>
         <td>IV</td>
-        <td><guide href="minecraft:boot">Boots</guide></td>
+        <td><guide href="minecraft:boots">Boots</guide></td>
         <td>-</td>
         <td>Reduces fall damage</td>
     </tr>

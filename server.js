@@ -58,8 +58,9 @@ app.get(prefix + '/version', function(req, res) {
     guideVersion(req.params.modid, req.params.version, function(version) {
         if(typeof version === "undefined") {
             res.send("X")
+        } else {
+            res.send(version);
         }
-        res.send(version);
     });
 })
 

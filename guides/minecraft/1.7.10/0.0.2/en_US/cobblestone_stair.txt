@@ -7,5 +7,5 @@ Cobblestone Stair
 </tool>
 
 <content>
-Cobblestone stairs are, well, <guide href="minecraft:star">stairs</guide>, made out of cobblestone. Big surprise there.
+Cobblestone stairs are, well, <guide href="minecraft:stair">stairs</guide>, made out of cobblestone. Big surprise there.
 </content>

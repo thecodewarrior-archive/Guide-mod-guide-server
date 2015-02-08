@@ -7,7 +7,7 @@ Explosion
 </tool>
 
 <content>
-An explosion is a physical event, generally destructive, that can be caused by several different circumstances. It can destroy nearby blocks, propel and <guide href="minecraft:damage">damage</guide> nearby <guide href="minecraft:player">players</guide>, <guide href="minecraft:entity">entities</guide>, and their <guide href="minecraft:armor">armor</guide>, and cause one or more <guide href="minecraft:fire">fires</guide> under correct circumstances. Explosions produce a "shockwave" <guide href="minecraft:particle_event">particle effect</guide>.
+An explosion is a physical event, generally destructive, that can be caused by several different circumstances. It can destroy nearby blocks, propel and <guide href="minecraft:damage">damage</guide> nearby <guide href="minecraft:player">players</guide>, <guide href="minecraft:entity">entities</guide>, and their <guide href="minecraft:armor">armor</guide>, and cause one or more <guide href="minecraft:fire">fires</guide> under correct circumstances. Explosions produce a "shockwave" <guide href="minecraft:particle_effect">particle effect</guide>.
 
 Multiple close explosions may propel objects further, but have no cumulative effect on the destruction of a block. This is because explosions' damage to blocks is evaluated individually (per explosion), and blocks' <guide href="minecraft:blast_resistance">blast resistance</guide> does not become "weakened" per explosion.
 
